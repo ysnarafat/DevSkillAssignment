@@ -15,8 +15,7 @@ namespace ConsoleApp1
             else
             {
                 string msg = "Welcome to Professional Programming with C#";
-                Console.WriteLine("Please Enter A Valid Name");
-                ///Console.WriteLine(msg.Insert(0, "Hei," + name));
+                Console.WriteLine(msg.Insert(0, "Hei," + name));
             }
 
             int a=10,b=20,s = 10;
