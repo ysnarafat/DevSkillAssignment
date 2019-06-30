@@ -1,3 +1,2 @@
-# DevSkillAssignment
 
-Devskill's tasks
+Devskill's tasks will be kept here...
