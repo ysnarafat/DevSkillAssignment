@@ -29,7 +29,9 @@ namespace Problem2
                 }
             }
             if (flag == 0)
+            {
                 Console.WriteLine(" (Prime)");
+            }
         }
     }
 }
