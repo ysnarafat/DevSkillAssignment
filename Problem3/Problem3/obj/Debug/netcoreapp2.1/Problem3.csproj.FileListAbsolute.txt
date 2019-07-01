@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\DevSkillAssignment\Problem3\Problem3\obj\Debug\netcoreapp2.1\Problem3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DevSkillAssignment\Problem3\Problem3\obj\Debug\netcoreapp2.1\Problem3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DevSkillAssignment\Problem3\Problem3\obj\Debug\netcoreapp2.1\Problem3.AssemblyInfo.cs
+C:\Users\User\source\repos\DevSkillAssignment\Problem3\Problem3\bin\Debug\netcoreapp2.1\Problem3.deps.json
+C:\Users\User\source\repos\DevSkillAssignment\Problem3\Problem3\bin\Debug\netcoreapp2.1\Problem3.runtimeconfig.json
+C:\Users\User\source\repos\DevSkillAssignment\Problem3\Problem3\bin\Debug\netcoreapp2.1\Problem3.runtimeconfig.dev.json
+C:\Users\User\source\repos\DevSkillAssignment\Problem3\Problem3\bin\Debug\netcoreapp2.1\Problem3.dll
+C:\Users\User\source\repos\DevSkillAssignment\Problem3\Problem3\bin\Debug\netcoreapp2.1\Problem3.pdb
+C:\Users\User\source\repos\DevSkillAssignment\Problem3\Problem3\obj\Debug\netcoreapp2.1\Problem3.dll
+C:\Users\User\source\repos\DevSkillAssignment\Problem3\Problem3\obj\Debug\netcoreapp2.1\Problem3.pdb
