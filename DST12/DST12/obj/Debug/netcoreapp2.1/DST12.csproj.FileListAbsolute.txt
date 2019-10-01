@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\DST12\DST12\bin\Debug\netcoreapp2.1\DST12.deps.json
+C:\Users\User\source\repos\DST12\DST12\bin\Debug\netcoreapp2.1\DST12.runtimeconfig.json
+C:\Users\User\source\repos\DST12\DST12\bin\Debug\netcoreapp2.1\DST12.runtimeconfig.dev.json
+C:\Users\User\source\repos\DST12\DST12\bin\Debug\netcoreapp2.1\DST12.dll
+C:\Users\User\source\repos\DST12\DST12\bin\Debug\netcoreapp2.1\DST12.pdb
+C:\Users\User\source\repos\DST12\DST12\obj\Debug\netcoreapp2.1\DST12.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DST12\DST12\obj\Debug\netcoreapp2.1\DST12.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DST12\DST12\obj\Debug\netcoreapp2.1\DST12.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DST12\DST12\obj\Debug\netcoreapp2.1\DST12.AssemblyInfo.cs
+C:\Users\User\source\repos\DST12\DST12\obj\Debug\netcoreapp2.1\DST12.dll
+C:\Users\User\source\repos\DST12\DST12\obj\Debug\netcoreapp2.1\DST12.pdb
